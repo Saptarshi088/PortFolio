@@ -35,7 +35,7 @@
         android:padding="10dp"
         android:layout_margin="10dp"
         android:textStyle="bold"
-        android:text="TextView" />
+        android:text="Computer Science Engineer" />
 
     <LinearLayout
         android:layout_width="match_parent"
